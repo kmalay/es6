@@ -1,0 +1,16 @@
+ECMAScript is a standard
+Javascript is an implementation of ECMAScript
+
+ES6 isn't yet fully supported in all browsers, so we use Babel to transpile our ES6 to ES5.
+ES6 --> Babel --> ES5
+
+Array helper methods
+--------------------------
+forEach
+map
+filter
+find
+every
+some
+reduce
+
